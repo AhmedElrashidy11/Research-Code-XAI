@@ -4,11 +4,30 @@ This repository contains the mid-progress submissions for the DSAI 305 course. I
 
 ---
 
+## 📘 About the Project
+
+Millions of people around the world are affected by diabetes mellitus, a chronic metabolic disease that requires early and accurate classification for effective management. This project explores the use of diverse machine learning (ML) and deep learning (DL) models for classifying diabetes using health indicators from the BRFSS 2015 dataset.
+
+The objective is to compare and evaluate a variety of ML and DL algorithms—including ensemble techniques, neural networks, and hybrid models—to improve predictive accuracy and interpretability. Each team member contributed models ranging from traditional classifiers (like logistic regression and decision trees) to advanced methods (such as conditional GANs and convolutional neural networks).
+
+Key aspects of the project include:
+
+* Preprocessing and handling imbalanced data
+* Model training using ensemble and deep learning techniques
+* Performance evaluation and comparison
+* Exploring model interpretability for explainable AI (XAI)
+
+This work draws on recent research that highlights the effectiveness of hybrid models and deep learning in medical diagnosis, emphasizing the importance of data quality, feature selection, and advanced modeling frameworks in improving diabetes classification systems.
+
+---
+
 ## 📁 Project Structure
 
-* `Preprocessing_and_EDA.ipynb`: General data preprocessing and EDA notebook.
+* `Preprocessing_and_EDA (1).ipynb`: General data preprocessing and EDA notebook.
 * `diabetes_012_health_indicators_BRFSS2015.csv`: Dataset used for all models.
-* `README.md`
+* `preprocessed_diabetes_data`: The dataset after preprocessing and cleaning.
+* * `README.md`
+
 
 Model implementations are available in individual branches (see below).
 
@@ -87,10 +106,16 @@ Each branch contains contributions from a specific team member, including differ
 
 ---
 
-## 🤝 Contributing
+## 👥 Team Members
 
-Want to contribute? Fork the repo, make your changes, and open a pull request. Be sure to branch off `main` or work within your designated feature branch.
+This project is a collaborative effort by Team 17 from the DSAI 305 course:
+
+* **Ahmed Elrashidy** – AdaBoost, Neural Network, XGBoost with Conditional GAN
+* **Mostafa Adam** – CatBoost, Decision Tree, K-Nearest Neighbors
+* **Muhammad Kamal** – Gaussian Naive Bayes, Gradient Boosting, Random Forest
+* **Mohamed Alaa** – Logistic Regression, Support Vector Machine, Convolutional Neural Network
+
+Each member explored different machine learning techniques and contributed through dedicated branches.
 
 ---
-
 
