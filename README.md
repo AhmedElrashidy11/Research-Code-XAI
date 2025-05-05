@@ -25,9 +25,6 @@ This work draws on recent research that highlights the effectiveness of hybrid m
 
 * `Preprocessing_and_EDA (1).ipynb`: General data preprocessing and EDA notebook.
 * `diabetes_012_health_indicators_BRFSS2015.csv`: Dataset used for all models.
-* `preprocessed_diabetes_data`: The dataset after preprocessing and cleaning.
-* * `README.md`
-
 
 Model implementations are available in individual branches (see below).
 
@@ -68,6 +65,20 @@ Each branch contains contributions from a specific team member, including differ
 ---
 
 ## 🛠️ Setup Instructions
+
+### 📦 Requirements
+
+You can install all required dependencies using the provided `requirements.txt` file:
+
+```bash
+pip install -r requirements.txt
+```
+
+Or install packages manually:
+
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn xgboost catboost lightgbm tensorflow keras notebook
+```
 
 1. **Clone the repository:**
 
@@ -116,6 +127,4 @@ This project is a collaborative effort by Team 17 from the DSAI 305 course:
 * **Mohamed Alaa** – Logistic Regression, Support Vector Machine, Convolutional Neural Network
 
 Each member explored different machine learning techniques and contributed through dedicated branches.
-
----
 
