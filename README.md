@@ -47,6 +47,12 @@ Each branch contains contributions from a specific team member, including differ
 * `Ahmed_Mohammed_202202168(AdaBoost_(Adaptive_Boosting)_Model).ipynb` – AdaBoost
 * `Ahmed_Mohammed_202202168(XGBoost_&_DT_by_Conditional_GAN).ipynb` – XGBoost & Decision Tree using Conditional GAN
 
+###  `Mohamed-Alaa`
+
+* `Logistic_dsai305(mohamedalaa).ipynb` – Logistic Regression
+* `dsai305_SVM(mohamedalaa).ipynb` – Support Vector Machine
+* `CNN_dsai305(mohamedalaa).ipynb` – Convolutional Neural Network
+
 ###  `Mostafa-Adam`
 
 * `Team_17__CatBoost_DSAI_305_Mostafa_Adam_Proj_Phase_2.ipynb` – CatBoost Model
@@ -58,12 +64,6 @@ Each branch contains contributions from a specific team member, including differ
 * `Muhammad_Kamal_202200899(GaussianNB).ipynb` – Gaussian Naive Bayes
 * `Muhammad_Kamal_202200899(Gradient_Boosting).ipynb` – Gradient Boosting
 * `Muhammad_Kamal_202200899(Random_forst).ipynb` – Random Forest
-
-###  `Mohamed-Alaa`
-
-* `Logistic_dsai305(mohamedalaa).ipynb` – Logistic Regression
-* `dsai305_SVM(mohamedalaa).ipynb` – Support Vector Machine
-* `CNN_dsai305(mohamedalaa).ipynb` – Convolutional Neural Network
 
 ---
 
@@ -125,9 +125,9 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost catboost lightg
 This project is a collaborative effort by Team 17 from the DSAI 305 course:
 
 * **Ahmed Elrashidy** – AdaBoost, Neural Network, XGBoost with Conditional GAN
+* **Mohamed Alaa** – Logistic Regression, Support Vector Machine, Convolutional Neural Network
 * **Mostafa Adam** – CatBoost, Decision Tree, K-Nearest Neighbors
 * **Muhammad Kamal** – Gaussian Naive Bayes, Gradient Boosting, Random Forest
-* **Mohamed Alaa** – Logistic Regression, Support Vector Machine, Convolutional Neural Network
 
 Each member explored different machine learning techniques and contributed through dedicated branches.
 
