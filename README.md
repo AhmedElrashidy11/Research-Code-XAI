@@ -4,7 +4,7 @@ This repository contains the mid-progress submissions for the DSAI 305 course. I
 
 ---
 
-## 📘 About the Project
+##  About the Project
 
 Millions of people around the world are affected by diabetes mellitus, a chronic metabolic disease that requires early and accurate classification for effective management. This project explores the use of diverse machine learning (ML) and deep learning (DL) models for classifying diabetes using health indicators from the BRFSS 2015 dataset.
 
@@ -21,7 +21,7 @@ This work draws on recent research that highlights the effectiveness of hybrid m
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 * `Preprocessing_and_EDA (1).ipynb`: General data preprocessing and EDA notebook.
 * `diabetes_012_health_indicators_BRFSS2015.csv`: Dataset used for all models.
@@ -30,33 +30,33 @@ Model implementations are available in individual branches (see below).
 
 ---
 
-## 🌿 Branches Structure
+##  Branches Structure
 
 Each branch contains contributions from a specific team member, including different ML models:
 
-### 🔵 `main`
+###  `main`
 
 * `README.md`
 
-### 🟢 `Ahmed-Elrashidy`
+###  `Ahmed-Elrashidy`
 
 * `Ahmed_Mohammed_202202168_(Nueral_Network_Model).ipynb` – Neural Network
 * `Ahmed_Mohammed_202202168(AdaBoost_(Adaptive_Boosting)_Model).ipynb` – AdaBoost
 * `Ahmed_Mohammed_202202168(XGBoost_&_DT_by_Conditional_GAN).ipynb` – XGBoost & Decision Tree using Conditional GAN
 
-### 🟡 `Mostafa-Adam`
+###  `Mostafa-Adam`
 
 * `Team_17__CatBoost_DSAI_305_Mostafa_Adam_Proj_Phase_2.ipynb` – CatBoost Model
 * `Team_17_DecisionTree_DSAI_305_Mostafa_Adam_Proj_Phase_2.ipynb` – Decision Tree
 * `KNN_Team_17_DSAI_305_Mostafa_Adam_Proj_Phase_2.ipynb` – K-Nearest Neighbors (KNN)
 
-### 🟣 `Muhammed-Kamal`
+###  `Muhammed-Kamal`
 
 * `Muhammad_Kamal_202200899(GaussianNB).ipynb` – Gaussian Naive Bayes
 * `Muhammad_Kamal_202200899(Gradient_Boosting).ipynb` – Gradient Boosting
 * `Muhammad_Kamal_202200899(Random_forst).ipynb` – Random Forest
 
-### 🔴 `Mohamed-Alaa`
+###  `Mohamed-Alaa`
 
 * `Logistic_dsai305(mohamedalaa).ipynb` – Logistic Regression
 * `dsai305_SVM(mohamedalaa).ipynb` – Support Vector Machine
@@ -64,9 +64,9 @@ Each branch contains contributions from a specific team member, including differ
 
 ---
 
-## 🛠️ Setup Instructions
+##  Setup Instructions
 
-### 📦 Requirements
+###  Requirements
 
 You can install all required dependencies using the provided `requirements.txt` file:
 
@@ -109,7 +109,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost catboost lightg
 
 ---
 
-## 📊 Dataset Information
+##  Dataset Information
 
 * **Name:** `diabetes_012_health_indicators_BRFSS2015.csv`
 * **Source:** Behavioral Risk Factor Surveillance System (BRFSS)
@@ -117,7 +117,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost catboost lightg
 
 ---
 
-## 👥 Team Members
+##  Team Members
 
 This project is a collaborative effort by Team 17 from the DSAI 305 course:
 
