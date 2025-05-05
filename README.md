@@ -23,7 +23,7 @@ This work draws on recent research that highlights the effectiveness of hybrid m
 
 ##  Project Structure
 
-* `Preprocessing_and_EDA (1).ipynb`: General data preprocessing and EDA notebook.
+* `Preprocessing_and_EDA.ipynb`: General data preprocessing and EDA notebook.
 * `diabetes_012_health_indicators_BRFSS2015.csv`: Dataset used for all models.
 
 Model implementations are available in individual branches (see below).
@@ -35,7 +35,10 @@ Model implementations are available in individual branches (see below).
 Each branch contains contributions from a specific team member, including different ML models:
 
 ###  `main`
-
+* `Preprocessing_and_EDA.ipynb`: General data preprocessing and EDA notebook.
+* `diabetes_012_health_indicators_BRFSS2015.csv`: Dataset used for all models.
+* `preprocessed_diabetes_data.csv`: Dataset after preprocessing and cleaning.
+* `requirements.txt`: The all libraries for code. 
 * `README.md`
 
 ###  `Ahmed-Elrashidy`
