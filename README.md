@@ -40,6 +40,7 @@ Each branch contains contributions from a specific team member, including differ
 * `preprocessed_diabetes_data.csv`: Dataset after preprocessing and cleaning.
 * `requirements.txt`: The all libraries for code. 
 * `README.md`
+* `EXPLAINABLE_AI_FOR_DIABETES_PREDICTION.pdf`: The Research Paper.
 
 ###  `Ahmed-Elrashidy`
 
